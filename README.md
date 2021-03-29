@@ -1,5 +1,14 @@
 # Battery status
 
+## Table of contents:
+
+- [Introduction](#introduction)
+
+- [Instructions, Methodology and Warnings](#instructions-methodology-and-warnings)
+
+- [Dependencies](#dependencies)
+
+
 ## Introduction 
 
 This project aims to solve a problem many suffer from. If you have an old laptopor for whatever reason your laptop's battery life is very short, and you've beenin the moment when your OS warns you that your laptop's battery is dying, you know the feeling. That moment when you rush to the power adapter. If you suffer from this problem, this repo might actually solve your problem. 
