@@ -6,14 +6,25 @@ This project aims to solve a problem many suffer from. If you have an old laptop
 
 Battery status is made so that whenever, for whatever reason, your laptop is notconnected to power and is discharging, it will let you know. That's it. 
 
-## Instructions:
+## Instructions, Methodology and Warnings:
 
-## How it works:
+click the GIF below to watch the youtube video. 
+
+[![YT-Video](https://i.ytimg.com/an_webp/m6Vqn0sngU4/mqdefault_6s.webp?du=3000&sqp=CIi1hoMG&rs=AOn4CLAygEVsduh_CTGreiCbYpM-tmYGig)](http://www.youtube.com/watch?v=m6Vqn0sngU4 "YT_video")
+
+
 
 ## Dependencies:
 
 bash
-ffplay
+
+ffplay V. 4.2.4
+
 GNU/Linux kernel release 5.4.0-52-generic 
+
+Zenity V. 3.22.0
+
+Existence of the following file: /sys/class/power_supply/BAT0/status
+
 
 The dependencies mentioned above are tested but not necessary for the program torun properly. However, other configurations are not tested and thus not guaranteed to work with the script without issues.
