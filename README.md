@@ -17,9 +17,9 @@ Battery status is made so that whenever, for whatever reason, your laptop is not
 
 ## Instructions, Methodology and Warnings:
 
-**Click the GIF below to watch the youtube video. Direct link in case clicking the GIF below is not working: http://www.youtube.com/watch?v=m6Vqn0sngU4**
+**Click the GIF below to watch the youtube video. Direct link in case the image below is not working: http://www.youtube.com/watch?v=m6Vqn0sngU4**
 
-[![YT-Video](https://i.ytimg.com/an_webp/m6Vqn0sngU4/mqdefault_6s.webp?du=3000&sqp=CIi1hoMG&rs=AOn4CLAygEVsduh_CTGreiCbYpM-tmYGig)](http://www.youtube.com/watch?v=m6Vqn0sngU4 "YT_video")
+[<img src="https://drive.google.com/u/0/uc?id=1gW3Vce2WursRnXudUg4cbT-zv_dovCmc&export=download" width="640" height="322">](http://www.youtube.com/watch?v=m6Vqn0sngU4 "YT_video")
 
 
 
